@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/css/main.fa28f48c.chunk.css",
-    "main.js": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/main.7914ddff.chunk.js",
-    "main.js.map": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/main.7914ddff.chunk.js.map",
-    "runtime-main.js": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/runtime-main.0f235618.js",
-    "runtime-main.js.map": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/runtime-main.0f235618.js.map",
-    "static/js/2.a9237fc8.chunk.js": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js",
-    "static/js/2.a9237fc8.chunk.js.map": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js.map",
-    "index.html": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/index.html",
-    "static/css/main.fa28f48c.chunk.css.map": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/css/main.fa28f48c.chunk.css.map",
-    "static/js/2.a9237fc8.chunk.js.LICENSE.txt": "/%E2%80%8Bhttps://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js.LICENSE.txt"
+    "main.css": "https://avishaietach.github.io/LOlapp/static/css/main.fa28f48c.chunk.css",
+    "main.js": "https://avishaietach.github.io/LOlapp/static/js/main.7914ddff.chunk.js",
+    "main.js.map": "https://avishaietach.github.io/LOlapp/static/js/main.7914ddff.chunk.js.map",
+    "runtime-main.js": "https://avishaietach.github.io/LOlapp/static/js/runtime-main.0f235618.js",
+    "runtime-main.js.map": "https://avishaietach.github.io/LOlapp/static/js/runtime-main.0f235618.js.map",
+    "static/js/2.a9237fc8.chunk.js": "https://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js",
+    "static/js/2.a9237fc8.chunk.js.map": "https://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js.map",
+    "index.html": "https://avishaietach.github.io/LOlapp/index.html",
+    "static/css/main.fa28f48c.chunk.css.map": "https://avishaietach.github.io/LOlapp/static/css/main.fa28f48c.chunk.css.map",
+    "static/js/2.a9237fc8.chunk.js.LICENSE.txt": "https://avishaietach.github.io/LOlapp/static/js/2.a9237fc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0f235618.js",
